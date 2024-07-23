@@ -21,7 +21,7 @@ The data review deliverable provides an overview of the data and the approach ta
 03_final_results
 The final deliverable provides an overview of the data, approach, and regression.
 
-## Results
+# Results
 The results of the analysis are summarized below.
 
 569 cases were scraped, with 357 being benign and 212 categorized as Malignant. There were 33 columns and 569 rows. 23/33 features were selected for machine learning: 'radius_mean', 'texture_mean', 'smoothness_mean', 'compactness_mean','concavity_mean', 'concave points_mean', 'symmetry_mean', 'fractal_dimension_mean', 'radius_se', 'texture_se', 'smoothness_se','compactness_se', 'concavity_se', 'concave points_se', 'symmetry_se','fractal_dimension_se','texture_worst', 'smoothness_worst', 'compactness_worst', 'concavity_worst', 'concave points_worst', 'symmetry_worst', 'fractal_dimension_worst'. 
